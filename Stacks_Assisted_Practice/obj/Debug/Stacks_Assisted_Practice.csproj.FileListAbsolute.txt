@@ -1,0 +1,7 @@
+D:\Assisted Practice Project\Stacks_Assisted_Practice\Stacks_Assisted_Practice\bin\Debug\Stacks_Assisted_Practice.exe.config
+D:\Assisted Practice Project\Stacks_Assisted_Practice\Stacks_Assisted_Practice\bin\Debug\Stacks_Assisted_Practice.exe
+D:\Assisted Practice Project\Stacks_Assisted_Practice\Stacks_Assisted_Practice\bin\Debug\Stacks_Assisted_Practice.pdb
+D:\Assisted Practice Project\Stacks_Assisted_Practice\Stacks_Assisted_Practice\obj\Debug\Stacks_Assisted_Practice.csproj.AssemblyReference.cache
+D:\Assisted Practice Project\Stacks_Assisted_Practice\Stacks_Assisted_Practice\obj\Debug\Stacks_Assisted_Practice.csproj.CoreCompileInputs.cache
+D:\Assisted Practice Project\Stacks_Assisted_Practice\Stacks_Assisted_Practice\obj\Debug\Stacks_Assisted_Practice.exe
+D:\Assisted Practice Project\Stacks_Assisted_Practice\Stacks_Assisted_Practice\obj\Debug\Stacks_Assisted_Practice.pdb
